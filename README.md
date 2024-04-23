@@ -7,7 +7,7 @@
   <div markdown="1">
     <ul>
       <li>24.04.23 - <a href="https://github.com/100-hours-a-week/erica-til/blob/main/April/2024-04-23.md">[ TIL 주제 ]</a></li>
-      <li>24.04.22 - <a href="https://github.com/100-hours-a-week/erica-til/blob/main/April/2024-04-22.md">[ TIL 주제 ]</a></li>
+      <li>24.04.22 - <a href="https://github.com/100-hours-a-week/erica-til/blob/main/April/2024-04-22.md">[ Git, JS 용어 ]</a></li>
     </ul>
 </details>
 
@@ -18,7 +18,7 @@
   <summary><b>🖥️ 웹 응용, js 기초</b></summary>
   <div markdown="1">
     <ul>
-      <li>24.04.19 - <a href="https://github.com/100-hours-a-week/erica-til/blob/main/April/2024-04-19.md">[ TIL 주제 ]</a></li>
+      <li>24.04.19 - <a href="https://github.com/100-hours-a-week/erica-til/blob/main/April/2024-04-19.md">[ 테스트 케이스 ]</a></li>
       <li>24.04.18 - <a href="https://github.com/100-hours-a-week/erica-til/blob/main/April/2024-04-18.md">[ TIL 주제 ]</a></li>
       <li>24.04.17 - <a href="https://github.com/100-hours-a-week/erica-til/blob/main/April/2024-04-17.md">[ TIL 주제 ]</a></li>
       <li>24.04.16 - <a href="https://github.com/100-hours-a-week/erica-til/blob/main/April/2024-04-16.md">[ TIL 주제 ]</a></li>
