@@ -1,16 +1,15 @@
 ## 🚀오늘 내가 배운 것들(Today I Learned)
 
-### [ 4월 넷째주, 4주차 ] 
+### [ 4월 넷째주, 4주차 ]
 
 <details>
   <summary><b>🖥️ git, js 응용</b></summary>
   <div markdown="1">
     <ul>
-      <li>24.04.23 - <a href="https://github.com/100-hours-a-week/erica-til/blob/main/April/2024-04-23.md">[ TIL 주제 ]</a></li>
+      <li>24.04.23 - <a href="https://github.com/100-hours-a-week/erica-til/blob/main/April/2024-04-23.md">[ ES6 ]</a></li>
       <li>24.04.22 - <a href="https://github.com/100-hours-a-week/erica-til/blob/main/April/2024-04-22.md">[ Git, JS 용어 ]</a></li>
     </ul>
 </details>
-
 
 ### [ 4월 셋째주, 3주차 ]
 
@@ -26,7 +25,6 @@
     </ul>
 </details>
 
-
 ### [ 4월 둘째주, 2주차 ]
 
 <details>
@@ -40,7 +38,6 @@
       <li>24.04.08 - <a href="https://github.com/100-hours-a-week/erica-til/blob/main/April/2024-04-08.md">[ TIL 주제 ]</a></li>
     </ul>
 </details>
-
 
 ### [ 4월 첫째주, 1주차 ]
 
