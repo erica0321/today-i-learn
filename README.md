@@ -18,7 +18,7 @@
   <div markdown="1">
     <ul>
       <li>24.04.19 - <a href="https://github.com/100-hours-a-week/erica-til/blob/main/April/2024-04-19.md">[ 테스트 케이스 ]</a></li>
-      <li>24.04.18 - <a href="https://github.com/100-hours-a-week/erica-til/blob/main/April/2024-04-18.md">[ TIL 주제 ]</a></li>
+      <li>24.04.18 - <a href="https://github.com/100-hours-a-week/erica-til/blob/main/April/2024-04-18.md">[ 커뮤니티 서버 연결 ]</a></li>
       <li>24.04.17 - <a href="https://github.com/100-hours-a-week/erica-til/blob/main/April/2024-04-17.md">[ TIL 주제 ]</a></li>
       <li>24.04.16 - <a href="https://github.com/100-hours-a-week/erica-til/blob/main/April/2024-04-16.md">[ TIL 주제 ]</a></li>
       <li>24.04.15 - <a href="https://github.com/100-hours-a-week/erica-til/blob/main/April/2024-04-15.md">[ TIL 주제 ]</a></li>
