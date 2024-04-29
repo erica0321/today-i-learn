@@ -2,6 +2,8 @@
 
 ### [ 4월 넷째주, 4주차 ] - 🖥️ git, js 응용
 
+- 24.04.29 - <a href="https://github.com/100-hours-a-week/erica-til/blob/main/April/2024-04-29.md">[ cookie, session 인증 ]</a>
+- 24.04.26 - <a href="https://github.com/100-hours-a-week/erica-til/blob/main/April/2024-04-26.md">[ 자격증명 header ]</a>
 - 24.04.25 - <a href="https://github.com/100-hours-a-week/erica-til/blob/main/April/2024-04-25.md">[ Sentry ]</a>
 - 24.04.24 - <a href="https://github.com/100-hours-a-week/erica-til/blob/main/April/2024-04-24.md">[ Ngrok ]</a>
 - 24.04.23 - <a href="https://github.com/100-hours-a-week/erica-til/blob/main/April/2024-04-23.md">[ ES6 ]</a>
