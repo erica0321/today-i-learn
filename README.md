@@ -2,7 +2,7 @@
 
 ### [ 5월 첫째주, 1주차 ] - 🖥️ 웹 응용, react 기초
 
-- 24.04.22 - <a href="https://github.com/100-hours-a-week/erica-til/blob/main/May/2024-05-03.md">[ React 함수형 component 및 state ]</a>
+- 24.05.03 - <a href="https://github.com/100-hours-a-week/erica-til/blob/main/May/2024-05-03.md">[ React 함수형 component 및 state ]</a>
 - 24.05.02 - <a href="https://github.com/100-hours-a-week/erica-til/blob/main/May/2024-05-02.md">[ 실행 컨텍스트 ]</a>
 
 ### [ 4월 넷째주, 4주차 ] - 🖥️ git, js 응용
