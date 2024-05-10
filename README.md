@@ -1,6 +1,11 @@
 ## 🚀오늘 내가 배운 것들(Today I Learned)
 
-### [ 5월 첫째주, 1주차 ] - 🖥️ 웹 응용, react 기초
+### [ 5월 둘째주, 2주차 ] - 🖥️ react 기초
+
+- 24.05.07 - <a href="https://github.com/100-hours-a-week/erica-til/blob/main/May/2024-05-07.md">[ React 렌더링 ]</a>
+- 24.05.06 - <a href="https://github.com/100-hours-a-week/erica-til/blob/main/May/2024-05-06.md">[ React Hooks ]</a>
+
+### [ 5월 첫째주, 1주차 ] - 🖥️ js 응용, react 기초
 
 - 24.05.03 - <a href="https://github.com/100-hours-a-week/erica-til/blob/main/May/2024-05-03.md">[ React 함수형 component 및 state ]</a>
 - 24.05.02 - <a href="https://github.com/100-hours-a-week/erica-til/blob/main/May/2024-05-02.md">[ 실행 컨텍스트 ]</a>
