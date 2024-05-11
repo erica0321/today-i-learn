@@ -2,7 +2,7 @@
 
 ### [ 5월 둘째주, 2주차 ] - 🖥️ react 기초
 
-- 24.05.11 - <a href="https://github.com/100-hours-a-week/erica-til/blob/main/May/2024-05-11.md">[ React 환경변수 ]</a>
+- 24.05.11 - <a href="https://github.com/100-hours-a-week/erica-til/blob/main/May/2024-05-11.md">[ React useReducer ]</a>
 - 24.05.10 - <a href="https://github.com/100-hours-a-week/erica-til/blob/main/May/2024-05-10.md">[ React 환경변수 ]</a>
 - 24.05.08 - <a href="https://github.com/100-hours-a-week/erica-til/blob/main/May/2024-05-08.md">[ React 고차 컴포넌트 ]</a>
 - 24.05.07 - <a href="https://github.com/100-hours-a-week/erica-til/blob/main/May/2024-05-07.md">[ React 렌더링 ]</a>
