@@ -1,5 +1,9 @@
 ## 🚀오늘 내가 배운 것들(Today I Learned)
 
+### [ 5월 둘째주, 3주차 ] - 🖥️ react 기초
+
+- 24.05.13 - <a href="https://github.com/100-hours-a-week/erica-til/blob/main/May/2024-05-13.md">[ React 고차 컴포넌트 사용 ]</a>
+
 ### [ 5월 둘째주, 2주차 ] - 🖥️ react 기초
 
 - 24.05.11 - <a href="https://github.com/100-hours-a-week/erica-til/blob/main/May/2024-05-11.md">[ React useReducer ]</a>
