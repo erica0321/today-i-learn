@@ -1,14 +1,15 @@
 ## 🚀오늘 내가 배운 것들(Today I Learned)
+
 날짜 클릭 시 해당 TIL로 이동  
 Velog 클릭 시 해당 관련 정리한 Velog로 이동
 
-
 ### [ 5월 둘째주, 7주차 ] - React 기초, 암호화
 
-- [x] [24.05.14](https://github.com/100-hours-a-week/erica-til/blob/main/May/2024-05-14.md) - [ 비밀번호 암호화 ]
+- [x] [24.05.14](https://github.com/100-hours-a-week/erica-til/blob/main/May/2024-05-14.md) - [ 비밀번호 암호화 ] - <a href="https://velog.io/@erica0321/express-%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8-%EC%95%94%ED%98%B8%ED%99%94-%EC%A0%81%EC%9A%A9-%EB%B0%8F-%EC%98%A4%EB%A5%98-%ED%95%B4%EA%B2%B0">
+      <img src="https://github.com/erica0321/today_i_learn/assets/81230764/52ba6e93-8abb-4a7e-9613-ff6d170fcfe3" style="width: 15px; height: 15px;" /> 프로젝트 </a>
 - [x] [24.05.13](https://github.com/100-hours-a-week/erica-til/blob/main/May/2024-05-13.md) - [ React 고차 컴포넌트 사용 ]
-      
-###  [ 5월 둘째주, 6주차 ] - React 기초
+
+### [ 5월 둘째주, 6주차 ] - React 기초
 
 - [x] [24.05.11](https://github.com/100-hours-a-week/erica-til/blob/main/May/2024-05-11.md) - [ React useReducer ]
 - [x] [24.05.10](https://github.com/100-hours-a-week/erica-til/blob/main/May/2024-05-10.md) - [ React 환경변수 ]
@@ -27,7 +28,8 @@ Velog 클릭 시 해당 관련 정리한 Velog로 이동
       <img src="https://github.com/erica0321/today_i_learn/assets/81230764/52ba6e93-8abb-4a7e-9613-ff6d170fcfe3" style="width: 15px; height: 15px;" /> 개념정리 </a>
 - [x] [24.04.29](https://github.com/100-hours-a-week/erica-til/blob/main/April/2024-04-29.md) - [ cookie, session 인증 ]
 - [x] [24.04.26](https://github.com/100-hours-a-week/erica-til/blob/main/April/2024-04-26.md) - [ 자격증명 header ]
-- [x] [24.04.25](https://github.com/100-hours-a-week/erica-til/blob/main/April/2024-04-25.md) - [ Sentry ]
+- [x] [24.04.25](https://github.com/100-hours-a-week/erica-til/blob/main/April/2024-04-25.md) - [ Sentry ] - <a href="https://velog.io/@erica0321/express-Sentry-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0">
+      <img src="https://github.com/erica0321/today_i_learn/assets/81230764/52ba6e93-8abb-4a7e-9613-ff6d170fcfe3" style="width: 15px; height: 15px;" /> 프로젝트 </a>
 - [x] [24.04.24](https://github.com/100-hours-a-week/erica-til/blob/main/April/2024-04-24.md) - [ Ngrok ]
 - [x] [24.04.23](https://github.com/100-hours-a-week/erica-til/blob/main/April/2024-04-23.md) - [ ES6 ]
 - [x] [24.04.22](https://github.com/100-hours-a-week/erica-til/blob/main/April/2024-04-22.md) - [ Git, JS 용어 ]
