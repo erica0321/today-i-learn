@@ -3,8 +3,10 @@
 날짜 클릭 시 해당 TIL로 이동  
 Velog 클릭 시 해당 관련 정리한 Velog로 이동
 
-### [ 5월 둘째주, 7주차 ] - React 기초, 암호화
+### [ 5월 둘째주, 7주차 ] - React 기초, 암호화, Java 기초
 
+- [x] [24.05.16](https://github.com/100-hours-a-week/erica-til/blob/main/May/2024-05-16.md) - [ Java 변수, 클래스, 접근 제어자 ] - <a href="https://velog.io/@erica0321/Java-%ED%81%B4%EB%9E%98%EC%8A%A4-%EC%83%81%EC%86%8D">
+      <img src="https://github.com/erica0321/today_i_learn/assets/81230764/52ba6e93-8abb-4a7e-9613-ff6d170fcfe3" style="width: 15px; height: 15px;" /> 개념정리 </a>
 - [x] [24.05.15](https://github.com/100-hours-a-week/erica-til/blob/main/May/2024-05-15.md) - [ JS 배열 내장 함수 ] - <a href="https://velog.io/@erica0321/JS-%EB%B0%B0%EC%97%B4-%EB%82%B4%EC%9E%A5-method%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%88%98%EC%A0%95">
       <img src="https://github.com/erica0321/today_i_learn/assets/81230764/52ba6e93-8abb-4a7e-9613-ff6d170fcfe3" style="width: 15px; height: 15px;" /> 프로젝트 </a>
 - [x] [24.05.14](https://github.com/100-hours-a-week/erica-til/blob/main/May/2024-05-14.md) - [ 비밀번호 암호화 ] - <a href="https://velog.io/@erica0321/express-%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8-%EC%95%94%ED%98%B8%ED%99%94-%EC%A0%81%EC%9A%A9-%EB%B0%8F-%EC%98%A4%EB%A5%98-%ED%95%B4%EA%B2%B0">
