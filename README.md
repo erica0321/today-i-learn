@@ -5,6 +5,8 @@ Velog 클릭 시 해당 관련 정리한 Velog로 이동
 
 ### [ 5월 둘째주, 7주차 ] - React 기초, 암호화, Java 기초
 
+- [x] [24.05.17](https://github.com/100-hours-a-week/erica-til/blob/main/May/2024-05-17.md) - [ Java 클래스 변수, 인스턴스 변수 초기화 ] - <a href="https://velog.io/@erica0321/Java-%ED%81%B4%EB%9E%98%EC%8A%A4-%EB%B3%80%EC%88%98%EC%99%80-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4-%EB%B3%80%EC%88%98%EC%9D%98-%EC%B4%88%EA%B8%B0%ED%99%94">
+      <img src="https://github.com/erica0321/today_i_learn/assets/81230764/52ba6e93-8abb-4a7e-9613-ff6d170fcfe3" style="width: 15px; height: 15px;" /> 개념정리 </a>
 - [x] [24.05.16](https://github.com/100-hours-a-week/erica-til/blob/main/May/2024-05-16.md) - [ Java 변수, 클래스, 접근 제어자 ] - <a href="https://velog.io/@erica0321/Java-%ED%81%B4%EB%9E%98%EC%8A%A4-%EC%83%81%EC%86%8D">
       <img src="https://github.com/erica0321/today_i_learn/assets/81230764/52ba6e93-8abb-4a7e-9613-ff6d170fcfe3" style="width: 15px; height: 15px;" /> 개념정리 </a>
 - [x] [24.05.15](https://github.com/100-hours-a-week/erica-til/blob/main/May/2024-05-15.md) - [ JS 배열 내장 함수 ] - <a href="https://velog.io/@erica0321/JS-%EB%B0%B0%EC%97%B4-%EB%82%B4%EC%9E%A5-method%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%88%98%EC%A0%95">
