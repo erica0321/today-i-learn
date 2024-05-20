@@ -3,6 +3,11 @@
 날짜 클릭 시 해당 TIL로 이동  
 Velog 클릭 시 해당 관련 정리한 Velog로 이동
 
+### [ 5월 셋째주, 8주차 ] - Java 예외처리
+
+- [x] [24.05.20](https://github.com/100-hours-a-week/erica-til/blob/main/May/2024-05-18.md) - [ Java 예외 처리 ] - <a href="https://velog.io/@erica0321/Java-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90%EC%84%9C-%EC%98%88%EC%99%B8-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0">
+      <img src="https://github.com/erica0321/today_i_learn/assets/81230764/52ba6e93-8abb-4a7e-9613-ff6d170fcfe3" style="width: 15px; height: 15px;" /> 프로젝트 </a>
+
 ### [ 5월 둘째주, 7주차 ] - React 기초, 암호화, Java 기초
 
 - [x] [24.05.17](https://github.com/100-hours-a-week/erica-til/blob/main/May/2024-05-17.md) - [ Java 클래스 변수, 인스턴스 변수 초기화 ] - <a href="https://velog.io/@erica0321/Java-%ED%81%B4%EB%9E%98%EC%8A%A4-%EB%B3%80%EC%88%98%EC%99%80-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4-%EB%B3%80%EC%88%98%EC%9D%98-%EC%B4%88%EA%B8%B0%ED%99%94">
@@ -27,12 +32,12 @@ Velog 클릭 시 해당 관련 정리한 Velog로 이동
 
 - [x] [24.05.03](https://github.com/100-hours-a-week/erica-til/blob/main/May/2024-05-03.md) - [ React 함수형 component 및 state ]
 - [x] [24.05.02](https://github.com/100-hours-a-week/erica-til/blob/main/May/2024-05-02.md) - [ 실행 컨텍스트 ]
-
-### [ 4월 넷째주, 4주차 ] - git, js 응용
-
 - [x] [24.04.30](https://github.com/100-hours-a-week/erica-til/blob/main/April/2024-04-30.md) - [ CORS: Preflight, Simple Request ] - <a href="https://velog.io/@erica0321/express-%EC%84%9C%EB%B2%84-route-controller-model-%EA%B5%AC%EC%A1%B0-%EC%A0%81%EC%9A%A9">
       <img src="https://github.com/erica0321/today_i_learn/assets/81230764/52ba6e93-8abb-4a7e-9613-ff6d170fcfe3" style="width: 15px; height: 15px;" /> 개념정리 </a>
 - [x] [24.04.29](https://github.com/100-hours-a-week/erica-til/blob/main/April/2024-04-29.md) - [ cookie, session 인증 ]
+
+### [ 4월 넷째주, 4주차 ] - git, js 응용
+
 - [x] [24.04.26](https://github.com/100-hours-a-week/erica-til/blob/main/April/2024-04-26.md) - [ 자격증명 header ]
 - [x] [24.04.25](https://github.com/100-hours-a-week/erica-til/blob/main/April/2024-04-25.md) - [ Sentry ] - <a href="https://velog.io/@erica0321/express-Sentry-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0">
       <img src="https://github.com/erica0321/today_i_learn/assets/81230764/52ba6e93-8abb-4a7e-9613-ff6d170fcfe3" style="width: 15px; height: 15px;" /> 프로젝트 </a>
