@@ -3,9 +3,10 @@
 날짜 클릭 시 해당 TIL로 이동  
 Velog 클릭 시 해당 관련 정리한 Velog로 이동
 
-### [ 5월 셋째주, 8주차 ] - Java 예외처리
+### [ 5월 셋째주, 8주차 ] - Java 기초, 알고리즘
 
-- [x] [24.05.20](https://github.com/100-hours-a-week/erica-til/blob/main/May/2024-05-18.md) - [ Java 예외 처리 ] - <a href="https://velog.io/@erica0321/Java-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90%EC%84%9C-%EC%98%88%EC%99%B8-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0">
+- [x] [24.05.21](https://github.com/100-hours-a-week/erica-til/blob/main/May/2024-05-21.md) - [ 알고리즘: BFS, DFS ]
+- [x] [24.05.20](https://github.com/100-hours-a-week/erica-til/blob/main/May/2024-05-20.md) - [ Java 예외 처리 ] - <a href="https://velog.io/@erica0321/Java-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90%EC%84%9C-%EC%98%88%EC%99%B8-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0">
       <img src="https://github.com/erica0321/today_i_learn/assets/81230764/52ba6e93-8abb-4a7e-9613-ff6d170fcfe3" style="width: 15px; height: 15px;" /> 프로젝트 </a>
 
 ### [ 5월 둘째주, 7주차 ] - React 기초, 암호화, Java 기초
