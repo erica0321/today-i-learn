@@ -5,7 +5,8 @@ Velog 클릭 시 해당 관련 정리한 Velog로 이동
 
 ### [ 5월 셋째주, 8주차 ] - Java 기초, 알고리즘
 
-- [x] [24.05.23](https://github.com/100-hours-a-week/erica-til/blob/main/May/2024-05-23.md) - [ Thread ]
+- [x] [24.05.23](https://github.com/100-hours-a-week/erica-til/blob/main/May/2024-05-23.md) - [ Thread ] - <a href="https://velog.io/@erica0321/OS-%EC%8A%A4%EB%A0%88%EB%93%9C%EC%99%80-%EB%A9%80%ED%8B%B0%EC%8A%A4%EB%A0%88%EB%94%A9">
+      <img src="https://github.com/erica0321/today_i_learn/assets/81230764/52ba6e93-8abb-4a7e-9613-ff6d170fcfe3" style="width: 15px; height: 15px;" /> 개념정리 </a>
 - [x] [24.05.22](https://github.com/100-hours-a-week/erica-til/blob/main/May/2024-05-22.md) - [ Java Interface 및 의존성 ] - <a href="https://velog.io/@erica0321/Java-interface%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4-Factory-Method-%ED%8C%A8%ED%84%B4-%EC%A0%81%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0">
       <img src="https://github.com/erica0321/today_i_learn/assets/81230764/52ba6e93-8abb-4a7e-9613-ff6d170fcfe3" style="width: 15px; height: 15px;" /> 프로젝트 </a>
 - [x] [24.05.21](https://github.com/100-hours-a-week/erica-til/blob/main/May/2024-05-21.md) - [ 알고리즘: BFS, DFS ]
