@@ -44,7 +44,8 @@ Velog 클릭 시 해당 관련 정리한 Velog로 이동
 
 ### [ 4월 넷째주, 4주차 ] - git, js 응용
 
-- [x] [24.04.26](https://github.com/100-hours-a-week/erica-til/blob/main/April/2024-04-26.md) - [ 자격증명 header ]
+- [x] [24.04.26](https://github.com/100-hours-a-week/erica-til/blob/main/April/2024-04-26.md) - [ HTTP 자격증명 header ] - <a href="https://velog.io/@erica0321/HTTP-%EC%9E%90%EA%B2%A9%EC%A6%9D%EB%AA%85-%ED%97%A4%EB%8D%94">
+      <img src="https://github.com/erica0321/today_i_learn/assets/81230764/52ba6e93-8abb-4a7e-9613-ff6d170fcfe3" style="width: 15px; height: 15px;" /> 개념정리 </a>
 - [x] [24.04.25](https://github.com/100-hours-a-week/erica-til/blob/main/April/2024-04-25.md) - [ Sentry ] - <a href="https://velog.io/@erica0321/express-Sentry-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0">
       <img src="https://github.com/erica0321/today_i_learn/assets/81230764/52ba6e93-8abb-4a7e-9613-ff6d170fcfe3" style="width: 15px; height: 15px;" /> 프로젝트 </a>
 - [x] [24.04.24](https://github.com/100-hours-a-week/erica-til/blob/main/April/2024-04-24.md) - [ Ngrok ]
