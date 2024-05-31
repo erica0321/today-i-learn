@@ -4,6 +4,11 @@
 Velog 클릭 시 해당 관련 정리한 Velog로 이동
 Github 클릭 시 해당 관련 Github 코드로 이동
 
+### [ 5월 넷째주, 9주차 ] - Java 기초, 데이터베이스
+
+- [x] [24.05.28](https://github.com/100-hours-a-week/erica-til/blob/main/May/2024-05-28.md) - [ 데이터베이스 ]
+- [x] [24.05.27](https://github.com/100-hours-a-week/erica-til/blob/main/May/2024-05-27.md) - [ Thread 교착상태 ]
+
 ### [ 5월 셋째주, 8주차 ] - Java 기초, 알고리즘
 
 - [x] [24.05.24](https://github.com/100-hours-a-week/erica-til/blob/main/May/2024-05-24.md) - [ 추상 클래스 ] - <a href="https://velog.io/@erica0321/Java-%EC%B6%94%EC%83%81-%ED%81%B4%EB%9E%98%EC%8A%A4-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4">
