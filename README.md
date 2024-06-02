@@ -1,11 +1,13 @@
 ## 🚀오늘 내가 배운 것들(Today I Learned)
 
 날짜 클릭 시 해당 TIL로 이동  
-Velog 클릭 시 해당 관련 정리한 Velog로 이동
+Velog 클릭 시 해당 관련 정리한 Velog로 이동  
 Github 클릭 시 해당 관련 Github 코드로 이동
 
 ### [ 5월 넷째주, 9주차 ] - Java 기초, 데이터베이스
 
+- [x] [24.05.31](https://github.com/100-hours-a-week/erica-til/blob/main/May/2024-05-31.md) - [ 데이터 이상, 정규형 ] - <a href="https://velog.io/@erica0321/MySQL-%EC%84%9C%EB%B8%8C%EC%BF%BC%EB%A6%AC">
+      <img src="https://github.com/erica0321/today_i_learn/assets/81230764/52ba6e93-8abb-4a7e-9613-ff6d170fcfe3" style="width: 15px; height: 15px;" /> 개념정리 </a>
 - [x] [24.05.30](https://github.com/100-hours-a-week/erica-til/blob/main/May/2024-05-30.md) - [ 데이터 이상, 정규형 ]
 - [x] [24.05.29](https://github.com/100-hours-a-week/erica-til/blob/main/May/2024-05-29.md) - [ DDL, DML ]
 - [x] [24.05.28](https://github.com/100-hours-a-week/erica-til/blob/main/May/2024-05-28.md) - [ 데이터베이스 ]
