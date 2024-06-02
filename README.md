@@ -6,7 +6,8 @@ Github 클릭 시 해당 관련 Github 코드로 이동
 
 ### [ 5월 넷째주, 9주차 ] - Java 기초, 데이터베이스
 
-- [x] [24.05.29](https://github.com/100-hours-a-week/erica-til/blob/main/May/2024-05-29.md) - [ 데이터베이스 DDL, DML ]
+- [x] [24.05.30](https://github.com/100-hours-a-week/erica-til/blob/main/May/2024-05-30.md) - [ 데이터 이상, 정규형 ]
+- [x] [24.05.29](https://github.com/100-hours-a-week/erica-til/blob/main/May/2024-05-29.md) - [ DDL, DML ]
 - [x] [24.05.28](https://github.com/100-hours-a-week/erica-til/blob/main/May/2024-05-28.md) - [ 데이터베이스 ]
 - [x] [24.05.27](https://github.com/100-hours-a-week/erica-til/blob/main/May/2024-05-27.md) - [ Thread 교착상태 ]
 
