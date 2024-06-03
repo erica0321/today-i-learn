@@ -6,7 +6,8 @@ Github 클릭 시 해당 관련 Github 코드로 이동
 
 ### [ 6월 첫째주, 10주차 ] - 데이터베이스
 
-- [x] [24.06.03](https://github.com/100-hours-a-week/erica-til/blob/main/Jun/2024-06-03.md) - [ 트랜잭션 격리 수준 ]
+- [x] [24.06.03](https://github.com/100-hours-a-week/erica-til/blob/main/Jun/2024-06-03.md) - [ 트랜잭션 격리 수준 ] - <a href="https://velog.io/@erica0321/MySQL-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EA%B2%A9%EB%A6%AC%EC%88%98%EC%A4%80-%EC%A0%81%EC%9A%A9">
+      <img src="https://github.com/erica0321/today_i_learn/assets/81230764/52ba6e93-8abb-4a7e-9613-ff6d170fcfe3" style="width: 15px; height: 15px;" /> 프로젝트 </a>
 
 ### [ 5월 넷째주, 9주차 ] - Java 기초, 데이터베이스
 
