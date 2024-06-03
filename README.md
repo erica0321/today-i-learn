@@ -4,6 +4,10 @@
 Velog 클릭 시 해당 관련 정리한 Velog로 이동  
 Github 클릭 시 해당 관련 Github 코드로 이동
 
+### [ 6월 첫째주, 10주차 ] - 데이터베이스
+
+- [x] [24.06.03](https://github.com/100-hours-a-week/erica-til/blob/main/Jun/2024-06-03.md) - [ 트랜잭션 격리 수준 ]
+
 ### [ 5월 넷째주, 9주차 ] - Java 기초, 데이터베이스
 
 - [x] [24.05.31](https://github.com/100-hours-a-week/erica-til/blob/main/May/2024-05-31.md) - [ SQL 서브쿼리 ] - <a href="https://velog.io/@erica0321/MySQL-%EC%84%9C%EB%B8%8C%EC%BF%BC%EB%A6%AC">
