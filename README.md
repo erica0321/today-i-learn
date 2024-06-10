@@ -78,17 +78,3 @@ Github 클릭 시 해당 관련 Github 코드로 이동
 - [x] [24.04.16](https://github.com/100-hours-a-week/erica-til/blob/main/April/2024-04-16.md) - [ router-controller-model 구조 ] - <a href="https://velog.io/@erica0321/express-%EC%84%9C%EB%B2%84-route-controller-model-%EA%B5%AC%EC%A1%B0-%EC%A0%81%EC%9A%A9">
       <img src="https://github.com/erica0321/today_i_learn/assets/81230764/52ba6e93-8abb-4a7e-9613-ff6d170fcfe3" style="width: 15px; height: 15px;" /> 프로젝트 </a>
 - [x] [24.04.15](https://github.com/100-hours-a-week/erica-til/blob/main/April/2024-04-15.md) - [ 웹 응용 ]
-
-### [ 4월 둘째주, 2주차 ] - HTML, CSS, 웹 기초 (2)
-
-- [ ] [24.04.12](https://github.com/100-hours-a-week/erica-til/blob/main/April/2024-04-12.md) - [ TIL 주제 ]
-- [ ] [24.04.11](https://github.com/100-hours-a-week/erica-til/blob/main/April/2024-04-11.md) - [ TIL 주제 ]
-- [ ] [24.04.10](https://github.com/100-hours-a-week/erica-til/blob/main/April/2024-04-10.md) - [ TIL 주제 ]
-- [ ] [24.04.09](https://github.com/100-hours-a-week/erica-til/blob/main/April/2024-04-09.md) - [ TIL 주제 ]
-- [ ] [24.04.08](https://github.com/100-hours-a-week/erica-til/blob/main/April/2024-04-08.md) - [ TIL 주제 ]
-
-### [ 4월 첫째주, 1주차 ] - HTML, CSS, 웹 기초
-
-- [ ] [24.04.05](https://github.com/100-hours-a-week/erica-til/blob/main/April/2024-04-05.md) - [ TIL 주제 ]
-- [ ] [24.04.04](https://github.com/100-hours-a-week/erica-til/blob/main/April/2024-04-04.md) - [ TIL 주제 ]
-- [ ] [24.04.03](https://github.com/100-hours-a-week/erica-til/blob/main/April/2024-04-03.md) - [ TIL 주제 ]
