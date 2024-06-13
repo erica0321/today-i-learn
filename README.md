@@ -4,6 +4,12 @@
 Velog 클릭 시 해당 관련 정리한 Velog로 이동  
 Github 클릭 시 해당 관련 Github 코드로 이동
 
+### [ 6월 둘째주, 11주차 ] - 스프링부트
+
+- [x] [24.06.12](https://github.com/100-hours-a-week/erica-til/blob/main/Jun/2024-06-12.md) - [ 스프링 부트 기초 개념 ]
+- [x] [24.06.11](https://github.com/100-hours-a-week/erica-til/blob/main/Jun/2024-06-11.md) - [ 스프링 부트 Querydsl ]
+- [x] [24.06.10](https://github.com/100-hours-a-week/erica-til/blob/main/Jun/2024-06-10.md) - [ 스프링 부트 JPA ]
+
 ### [ 6월 첫째주, 10주차 ] - 데이터베이스, 스프링부트
 
 - [x] [24.06.07](https://github.com/100-hours-a-week/erica-til/blob/main/Jun/2024-06-07.md) - [ 스프링 부트 jdbc Template ] - <a href="https://velog.io/@erica0321/Spring-boot-Jdbc-Template-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0">
