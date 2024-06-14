@@ -6,6 +6,7 @@ Github 클릭 시 해당 관련 Github 코드로 이동
 
 ### [ 6월 둘째주, 11주차 ] - 스프링부트
 
+- [x] [24.06.14](https://github.com/100-hours-a-week/erica-til/blob/main/Jun/2024-06-14.md) - [ @Transactional 어노테이션 ]
 - [x] [24.06.12](https://github.com/100-hours-a-week/erica-til/blob/main/Jun/2024-06-12.md) - [ 스프링 부트 기초 개념 ]
 - [x] [24.06.11](https://github.com/100-hours-a-week/erica-til/blob/main/Jun/2024-06-11.md) - [ 스프링 부트 Querydsl ]
 - [x] [24.06.10](https://github.com/100-hours-a-week/erica-til/blob/main/Jun/2024-06-10.md) - [ 스프링 부트 JPA ]
