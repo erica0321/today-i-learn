@@ -4,6 +4,12 @@
 Velog 클릭 시 해당 관련 정리한 Velog로 이동  
 Github 클릭 시 해당 관련 Github 코드로 이동
 
+### [ 6월 셋째주, 12주차 ] - 스프링부트, JWT 토큰
+
+- [x] [24.06.19](https://github.com/100-hours-a-week/erica-til/blob/main/Jun/2024-06-19.md) - [ 영속성 컨텍스트 ]
+- [x] [24.06.18](https://github.com/100-hours-a-week/erica-til/blob/main/Jun/2024-06-18.md) - [ JWT 토큰 ]
+- [x] [24.06.17](https://github.com/100-hours-a-week/erica-til/blob/main/Jun/2024-06-17.md) - [ 스프링 시큐리티 ]
+
 ### [ 6월 둘째주, 11주차 ] - 스프링부트
 
 - [x] [24.06.14](https://github.com/100-hours-a-week/erica-til/blob/main/Jun/2024-06-14.md) - [ @Transactional 어노테이션 ]
