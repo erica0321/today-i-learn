@@ -6,6 +6,8 @@ Github 클릭 시 해당 관련 Github 코드로 이동
 
 ### [ 6월 셋째주, 12주차 ] - 스프링부트, JWT 토큰
 
+- [x] [24.06.20](https://github.com/100-hours-a-week/erica-til/blob/main/Jun/2024-06-20.md) - [ 영속성 컨텍스트 장점 ] - <a href="https://velog.io/@erica0321/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-%EC%98%81%EC%86%8D%EC%84%B1-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8">
+      <img src="https://github.com/erica0321/today_i_learn/assets/81230764/52ba6e93-8abb-4a7e-9613-ff6d170fcfe3" style="width: 15px; height: 15px;" /> 프로젝트 </a>
 - [x] [24.06.19](https://github.com/100-hours-a-week/erica-til/blob/main/Jun/2024-06-19.md) - [ 영속성 컨텍스트 ]
 - [x] [24.06.18](https://github.com/100-hours-a-week/erica-til/blob/main/Jun/2024-06-18.md) - [ JWT 토큰 ] - <a href="https://velog.io/@erica0321/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-Spring-security-JWT-token-%EC%A0%81%EC%9A%A9">
       <img src="https://github.com/erica0321/today_i_learn/assets/81230764/52ba6e93-8abb-4a7e-9613-ff6d170fcfe3" style="width: 15px; height: 15px;" /> 프로젝트 </a>
