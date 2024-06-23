@@ -6,27 +6,30 @@ Github 클릭 시 해당 관련 Github 코드로 이동
 
 ### [ 6월 셋째주, 12주차 ] - 스프링부트, JWT 토큰
 
-- [x] [24.06.19](https://github.com/100-hours-a-week/erica-til/blob/main/Jun/2024-06-19.md) - [ 영속성 컨텍스트 ]
-- [x] [24.06.18](https://github.com/100-hours-a-week/erica-til/blob/main/Jun/2024-06-18.md) - [ JWT 토큰 ] - <a href="https://velog.io/@erica0321/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-Spring-security-JWT-token-%EC%A0%81%EC%9A%A9">
+- [x] [24.06.21](https://github.com/100-hours-a-week/erica-til/blob/main/June/2024-06-21.md) - [ 1차 캐시와 2차 캐시 ] - <a href="https://velog.io/@erica0321/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-1%EC%B0%A8-%EC%BA%90%EC%8B%9C%EC%99%80-2%EC%B0%A8-%EC%BA%90%EC%8B%9C"><img src="https://github.com/erica0321/today_i_learn/assets/81230764/52ba6e93-8abb-4a7e-9613-ff6d170fcfe3" style="width: 15px; height: 15px;" /> 프로젝트 </a>
+- [x] [24.06.20](https://github.com/100-hours-a-week/erica-til/blob/main/June/2024-06-20.md) - [ 영속성 컨텍스트 장점 ] - <a href="https://velog.io/@erica0321/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-%EC%98%81%EC%86%8D%EC%84%B1-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8">
       <img src="https://github.com/erica0321/today_i_learn/assets/81230764/52ba6e93-8abb-4a7e-9613-ff6d170fcfe3" style="width: 15px; height: 15px;" /> 프로젝트 </a>
-- [x] [24.06.17](https://github.com/100-hours-a-week/erica-til/blob/main/Jun/2024-06-17.md) - [ 스프링 시큐리티 ]
+- [x] [24.06.19](https://github.com/100-hours-a-week/erica-til/blob/main/June/2024-06-19.md) - [ 영속성 컨텍스트 ]
+- [x] [24.06.18](https://github.com/100-hours-a-week/erica-til/blob/main/June/2024-06-18.md) - [ JWT 토큰 ] - <a href="https://velog.io/@erica0321/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-Spring-security-JWT-token-%EC%A0%81%EC%9A%A9">
+      <img src="https://github.com/erica0321/today_i_learn/assets/81230764/52ba6e93-8abb-4a7e-9613-ff6d170fcfe3" style="width: 15px; height: 15px;" /> 프로젝트 </a>
+- [x] [24.06.17](https://github.com/100-hours-a-week/erica-til/blob/main/June/2024-06-17.md) - [ 스프링 시큐리티 ]
 
 ### [ 6월 둘째주, 11주차 ] - 스프링부트
 
-- [x] [24.06.14](https://github.com/100-hours-a-week/erica-til/blob/main/Jun/2024-06-14.md) - [ @Transactional 어노테이션 ]
-- [x] [24.06.12](https://github.com/100-hours-a-week/erica-til/blob/main/Jun/2024-06-12.md) - [ 스프링 부트 기초 개념 ]
-- [x] [24.06.11](https://github.com/100-hours-a-week/erica-til/blob/main/Jun/2024-06-11.md) - [ 스프링 부트 Querydsl ] - <a href="https://velog.io/@erica0321/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-JPA-Querydsl-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0">
+- [x] [24.06.14](https://github.com/100-hours-a-week/erica-til/blob/main/June/2024-06-14.md) - [ @Transactional 어노테이션 ]
+- [x] [24.06.12](https://github.com/100-hours-a-week/erica-til/blob/main/June/2024-06-12.md) - [ 스프링 부트 기초 개념 ]
+- [x] [24.06.11](https://github.com/100-hours-a-week/erica-til/blob/main/June/2024-06-11.md) - [ 스프링 부트 Querydsl ] - <a href="https://velog.io/@erica0321/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-JPA-Querydsl-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0">
       <img src="https://github.com/erica0321/today_i_learn/assets/81230764/52ba6e93-8abb-4a7e-9613-ff6d170fcfe3" style="width: 15px; height: 15px;" /> 프로젝트 </a>
-- [x] [24.06.10](https://github.com/100-hours-a-week/erica-til/blob/main/Jun/2024-06-10.md) - [ 스프링 부트 JPA ]
+- [x] [24.06.10](https://github.com/100-hours-a-week/erica-til/blob/main/June/2024-06-10.md) - [ 스프링 부트 JPA ]
 
 ### [ 6월 첫째주, 10주차 ] - 데이터베이스, 스프링부트
 
-- [x] [24.06.07](https://github.com/100-hours-a-week/erica-til/blob/main/Jun/2024-06-07.md) - [ 스프링 부트 jdbc Template ] - <a href="https://velog.io/@erica0321/Spring-boot-Jdbc-Template-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0">
+- [x] [24.06.07](https://github.com/100-hours-a-week/erica-til/blob/main/June/2024-06-07.md) - [ 스프링 부트 jdbc Template ] - <a href="https://velog.io/@erica0321/Spring-boot-Jdbc-Template-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0">
       <img src="https://github.com/erica0321/today_i_learn/assets/81230764/52ba6e93-8abb-4a7e-9613-ff6d170fcfe3" style="width: 15px; height: 15px;" /> 프로젝트 </a>
-- [x] [24.06.05](https://github.com/100-hours-a-week/erica-til/blob/main/Jun/2024-06-05.md) - [ 스프링 부트 기초 개념 ]
-- [x] [24.06.04](https://github.com/100-hours-a-week/erica-til/blob/main/Jun/2024-06-04.md) - [ Express, MySQL 연결 ] - <a href="https://velog.io/@erica0321/Express-MySQL-%EC%97%B0%EB%8F%99-%EB%B0%8F-%EC%BF%BC%EB%A6%AC-%EC%88%98%EC%A0%95#query-%EB%AA%A8%EC%9D%8C">
+- [x] [24.06.05](https://github.com/100-hours-a-week/erica-til/blob/main/June/2024-06-05.md) - [ 스프링 부트 기초 개념 ]
+- [x] [24.06.04](https://github.com/100-hours-a-week/erica-til/blob/main/June/2024-06-04.md) - [ Express, MySQL 연결 ] - <a href="https://velog.io/@erica0321/Express-MySQL-%EC%97%B0%EB%8F%99-%EB%B0%8F-%EC%BF%BC%EB%A6%AC-%EC%88%98%EC%A0%95#query-%EB%AA%A8%EC%9D%8C">
       <img src="https://github.com/erica0321/today_i_learn/assets/81230764/52ba6e93-8abb-4a7e-9613-ff6d170fcfe3" style="width: 15px; height: 15px;" /> 프로젝트 </a>
-- [x] [24.06.03](https://github.com/100-hours-a-week/erica-til/blob/main/Jun/2024-06-03.md) - [ 트랜잭션 격리 수준 ] - <a href="https://velog.io/@erica0321/MySQL-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EA%B2%A9%EB%A6%AC%EC%88%98%EC%A4%80-%EC%A0%81%EC%9A%A9">
+- [x] [24.06.03](https://github.com/100-hours-a-week/erica-til/blob/main/June/2024-06-03.md) - [ 트랜잭션 격리 수준 ] - <a href="https://velog.io/@erica0321/MySQL-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EA%B2%A9%EB%A6%AC%EC%88%98%EC%A4%80-%EC%A0%81%EC%9A%A9">
       <img src="https://github.com/erica0321/today_i_learn/assets/81230764/52ba6e93-8abb-4a7e-9613-ff6d170fcfe3" style="width: 15px; height: 15px;" /> 프로젝트 </a>
 
 ### [ 5월 넷째주, 9주차 ] - Java 기초, 데이터베이스
