@@ -7,9 +7,9 @@ Github 클릭 시 해당 관련 Github 코드로 이동
 ### [ 6월 넷째주, 13주차 ] - 배포
 
 
-- [x] [24.06.28](https://github.com/100-hours-a-week/erica-til/blob/main/June/2024-06-28.md) - [ 영속성 컨텍스트 ]
-- [x] [24.06.26](https://github.com/100-hours-a-week/erica-til/blob/main/June/2024-06-26.md) - [ 영속성 컨텍스트 ]
-- [x] [24.06.25](https://github.com/100-hours-a-week/erica-til/blob/main/June/2024-06-25.md) - [ 영속성 컨텍스트 ]
+- [x] [24.06.28](https://github.com/100-hours-a-week/erica-til/blob/main/June/2024-06-28.md) - [ SSL, TLS ]
+- [x] [24.06.26](https://github.com/100-hours-a-week/erica-til/blob/main/June/2024-06-26.md) - [ Linux 명령어 ]
+- [x] [24.06.25](https://github.com/100-hours-a-week/erica-til/blob/main/June/2024-06-25.md) - [ 서버 SSL 인증 + https ]
 
 
 ### [ 6월 셋째주, 12주차 ] - 스프링부트, JWT 토큰
