@@ -4,6 +4,14 @@
 Velog 클릭 시 해당 관련 정리한 Velog로 이동  
 Github 클릭 시 해당 관련 Github 코드로 이동
 
+### [ 6월 넷째주, 13주차 ] - 배포
+
+
+- [x] [24.06.28](https://github.com/100-hours-a-week/erica-til/blob/main/June/2024-06-28.md) - [ SSL, TLS ]
+- [x] [24.06.26](https://github.com/100-hours-a-week/erica-til/blob/main/June/2024-06-26.md) - [ Linux 명령어 ]
+- [x] [24.06.25](https://github.com/100-hours-a-week/erica-til/blob/main/June/2024-06-25.md) - [ 서버 SSL 인증 + https ]
+
+
 ### [ 6월 셋째주, 12주차 ] - 스프링부트, JWT 토큰
 
 - [x] [24.06.21](https://github.com/100-hours-a-week/erica-til/blob/main/June/2024-06-21.md) - [ 1차 캐시와 2차 캐시 ] - <a href="https://velog.io/@erica0321/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-1%EC%B0%A8-%EC%BA%90%EC%8B%9C%EC%99%80-2%EC%B0%A8-%EC%BA%90%EC%8B%9C"><img src="https://github.com/erica0321/today_i_learn/assets/81230764/52ba6e93-8abb-4a7e-9613-ff6d170fcfe3" style="width: 15px; height: 15px;" /> 개념정리 </a>
